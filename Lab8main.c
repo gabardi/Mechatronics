@@ -1,7 +1,7 @@
 /*******************************************************
 This program was created by the CodeWizardAVR V3.37 UL 
 Automatic Program Generator
-© Copyright 1998-2019 Pavel Haiduc, HP InfoTech s.r.l.
+Â© Copyright 1998-2019 Pavel Haiduc, HP InfoTech s.r.l.
 http://www.hpinfotech.com
 
 Project : ME 445 Lab 08
@@ -19,8 +19,8 @@ Description:
 The goal of this lab is to gain hands-on experience 
 using the hydraulic system to control two cylinders.
 
-Cylinder 1 – Implements Saw Functionality
-Cylinder 2 – Implements Clamp Functionality
+Cylinder 1 â€“ Implements Saw Functionality
+Cylinder 2 â€“ Implements Clamp Functionality
 *******************************************************/
 
 #include <io.h>
